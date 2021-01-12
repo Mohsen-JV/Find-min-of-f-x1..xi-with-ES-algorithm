@@ -1,0 +1,15 @@
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\bin\Debug\Find min genaration algorithm.exe.config
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\bin\Debug\Find min genaration algorithm.exe
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\bin\Debug\Find min genaration algorithm.pdb
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min ES algorithm.csprojAssemblyReference.cache
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\MainWindow.g.cs
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\App.g.cs
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min genaration algorithm_MarkupCompile.cache
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min genaration algorithm_MarkupCompile.lref
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\MainWindow.baml
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min genaration algorithm.g.resources
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find_min_genaration_algorithm.Properties.Resources.resources
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min ES algorithm.csproj.GenerateResource.cache
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min ES algorithm.csproj.CoreCompileInputs.cache
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min genaration algorithm.exe
+D:\Programs\C#\find Min f generation algorithm\Find min genaration algorithm\obj\Debug\Find min genaration algorithm.pdb
